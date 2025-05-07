@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: source_vendas
+    schema: public
+    tables:
+      - name: vendas
+        description: "Tabela de vendas"
